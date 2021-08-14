@@ -9,7 +9,8 @@ Here are the Toronto Neighborhoods before Clustering :
 
 And here are the Toronto Neighborhoods after Clustering :
 
-![Toronto Neighborhoods after Clustering](https://user-images.githubusercontent.com/48560818/129450053-e1cdb925-3deb-4293-8852-20a9a3b7559b.jpg)
+![Toronto Neighborhoods after Clustering](https://user-images.githubusercontent.com/48560818/129450557-24c394fc-3939-4bcb-acf6-a08229e1a426.jpg)
+
 
 
 
